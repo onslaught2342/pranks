@@ -14,4 +14,4 @@ if (-not $burntToastInstalled -and -not $burntToastLoaded) {
 if (-not $burntToastLoaded) {
     Import-Module BurntToast
 }
-New-BurntToastNotification -Text "You are already dead 📚", "N A N I ?! 🔥💀" -AppLogo $imagePath
+New-BurntToastNotification -Text "OMAEE WA MOU SHINDEIRU", "N A N I ?! 🔥💀" -AppLogo $imagePath
