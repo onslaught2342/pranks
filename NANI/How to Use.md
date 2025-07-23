@@ -50,14 +50,6 @@ Want to verify it yourself?
 
 ---
 
-## 🚧 Future Ideas (PRs welcome!)
-
-- Add "NANI?!" voice line using TTS or audio
-- Auto-play meme sound/video
-- Randomize other meme messages like “It’s over 9000!”, etc.
-
----
-
 ## 📁 Structure
 
 ```
@@ -65,4 +57,9 @@ pranks/
 └── NANI/
     ├── study.ps1          # Meme launcher disguised as study script
     └── How to Use.md          # This file
+    └── nani.mp3           # AUDIO SFX
 ```
+
+### 🫡 Credits to
+
+https://www.myinstants.com/en/instant/omae-wa-mou-shindeiru-nani-494/
